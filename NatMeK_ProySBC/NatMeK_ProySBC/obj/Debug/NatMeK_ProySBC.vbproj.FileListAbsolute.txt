@@ -15,3 +15,7 @@ C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\AplicaciónSBC\NatMeK
 C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\AplicaciónSBC\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.p5_opcional.resources
 C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\AplicaciónSBC\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.p6_plantas.resources
 C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\AplicaciónSBC\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.r1_achiote.resources
+C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\SBC_proyfinal\NatMeK_ProySBC\NatMeK_ProySBC\bin\Debug\NatMeK_ProySBC.exe.config
+C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\SBC_proyfinal\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.exe
+C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\SBC_proyfinal\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.xml
+C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\SBC_proyfinal\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.pdb

@@ -129,10 +129,22 @@
     <Compile Include="r1_achiote.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="r1_aloevera.Designer.vb">
+      <DependentUpon>r1_aloevera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_aloevera.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="r2_achiote.Designer.vb">
       <DependentUpon>r2_achiote.vb</DependentUpon>
     </Compile>
     <Compile Include="r2_achiote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_aloevera.Designer.vb">
+      <DependentUpon>r2_aloevera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_aloevera.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
@@ -164,8 +176,14 @@
     <EmbeddedResource Include="r1_achiote.resx">
       <DependentUpon>r1_achiote.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="r1_aloevera.resx">
+      <DependentUpon>r1_aloevera.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="r2_achiote.resx">
       <DependentUpon>r2_achiote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_aloevera.resx">
+      <DependentUpon>r2_aloevera.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -189,6 +207,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\achiote2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sabila1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
