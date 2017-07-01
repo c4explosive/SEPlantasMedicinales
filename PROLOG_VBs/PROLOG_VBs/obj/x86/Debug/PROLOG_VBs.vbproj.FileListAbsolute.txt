@@ -1,0 +1,11 @@
+C:\Users\a-ero\Dropbox\HCI_Proyecto2_IFARHU\WashInternational\PROLOG_VBs\PROLOG_VBs\bin\x86\Debug\PROLOG_VBs.exe.config
+C:\Users\a-ero\Dropbox\HCI_Proyecto2_IFARHU\WashInternational\PROLOG_VBs\PROLOG_VBs\bin\x86\Debug\PROLOG_VBs.exe
+C:\Users\a-ero\Dropbox\HCI_Proyecto2_IFARHU\WashInternational\PROLOG_VBs\PROLOG_VBs\bin\x86\Debug\PROLOG_VBs.pdb
+C:\Users\a-ero\Dropbox\HCI_Proyecto2_IFARHU\WashInternational\PROLOG_VBs\PROLOG_VBs\bin\x86\Debug\PROLOG_VBs.xml
+C:\Users\a-ero\Dropbox\HCI_Proyecto2_IFARHU\WashInternational\PROLOG_VBs\PROLOG_VBs\bin\x86\Debug\SwiPlCs64.dll
+C:\Users\a-ero\Dropbox\HCI_Proyecto2_IFARHU\WashInternational\PROLOG_VBs\PROLOG_VBs\obj\x86\Debug\PROLOG_VBs.Form1.resources
+C:\Users\a-ero\Dropbox\HCI_Proyecto2_IFARHU\WashInternational\PROLOG_VBs\PROLOG_VBs\obj\x86\Debug\PROLOG_VBs.Resources.resources
+C:\Users\a-ero\Dropbox\HCI_Proyecto2_IFARHU\WashInternational\PROLOG_VBs\PROLOG_VBs\obj\x86\Debug\PROLOG_VBs.vbproj.GenerateResource.Cache
+C:\Users\a-ero\Dropbox\HCI_Proyecto2_IFARHU\WashInternational\PROLOG_VBs\PROLOG_VBs\obj\x86\Debug\PROLOG_VBs.exe
+C:\Users\a-ero\Dropbox\HCI_Proyecto2_IFARHU\WashInternational\PROLOG_VBs\PROLOG_VBs\obj\x86\Debug\PROLOG_VBs.xml
+C:\Users\a-ero\Dropbox\HCI_Proyecto2_IFARHU\WashInternational\PROLOG_VBs\PROLOG_VBs\obj\x86\Debug\PROLOG_VBs.pdb
