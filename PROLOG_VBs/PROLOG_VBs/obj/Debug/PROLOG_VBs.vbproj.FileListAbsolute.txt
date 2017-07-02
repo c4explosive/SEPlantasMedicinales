@@ -22,3 +22,7 @@ C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\PROLOG_VBs\PROLOG_VBs\
 C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\PROLOG_VBs\PROLOG_VBs\obj\Debug\PROLOG_VBs.Resources.resources
 C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\PROLOG_VBs\PROLOG_VBs\obj\Debug\PROLOG_VBs.vbproj.GenerateResource.Cache
 C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\PROLOG_VBs\PROLOG_VBs\bin\Debug\SwiPlCs.dll
+C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\SBC_proyfinal\PROLOG_VBs\PROLOG_VBs\bin\Debug\PROLOG_VBs.exe.config
+C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\SBC_proyfinal\PROLOG_VBs\PROLOG_VBs\obj\Debug\PROLOG_VBs.exe
+C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\SBC_proyfinal\PROLOG_VBs\PROLOG_VBs\obj\Debug\PROLOG_VBs.xml
+C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\SBC_proyfinal\PROLOG_VBs\PROLOG_VBs\obj\Debug\PROLOG_VBs.pdb
