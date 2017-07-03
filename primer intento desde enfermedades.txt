@@ -1,0 +1,162 @@
+%Declaraciones
+%Areas o zonas de la enfermedad
+
+area(sistema_inmunologico, inflamaciones).
+area(sistema_inmunologico, fiebre).
+
+area(piel, irritacion).
+area(piel, varices).
+area(piel, acne).
+area(piel, golpes).
+area(piel, herpes).
+
+area(cabeza, dolor_de_cabeza).
+area(cabeza, caida_de_cabello).
+area(cabeza, caspa).
+
+area(estomago, dolores_estomacales).
+area(estomago, parasitos).
+area(estomago, fatiga).
+
+area(boca, aftas_bucales).
+area(boca, inflamacion_de_amigdalas).
+area(boca, dolor_de_muela).
+
+area(higado, bilis).
+area(higado, calculos_biliares).
+
+area(huesos, dolores_reumaticos).
+area(huesos, artritis).
+
+area(oido, dolor_de_oido).
+
+area(ojos, conjuntivitis).
+
+area(riñones, retencion_de_liquidos).
+area(riñones, infeccion_urinaria).
+
+area(sistema_nervioso, nerviosismo).
+area(sistema_nervioso, insomnio).
+
+area(sistema_respiratorio, tos).
+area(sistema_respiratorio, gripe).
+area(sistema_respiratorio, resfriado).
+area(sistema_respiratorio, hemorragias_nasales).
+area(sistema_respiratorio, bronquitis).
+area(sistema_respiratorio, asma).
+
+%area(sangre, anemia).
+
+%Modo de Preparación
+
+preparacion(decoccion, inflamaciones).
+preparacion(cataplasma, inflamaciones).
+preparacion(maceracion, inflamaciones).
+preparacion(decoccion, fiebre).
+preparacion(decoccion, fiebre).
+
+preparacion(pulpa, irritacion).
+preparacion(pulpa, varices).
+preparacion(cataplasma, varices).
+preparacion(pulpa, acne).
+preparacion(maceracion, acne).
+preparacion(decoccion, acne).
+preparacion(tintura, golpes).
+preparacion(aceite_esencial, herpes).
+
+preparacion(infusion, dolor_de_cabeza).
+preparacion(tintura, dolor_de_cabeza).
+preparacion(decoccion, dolor_de_cabeza).
+preparacion(decoccion, caida_de_cabello).
+preparacion(infusion, caida_de_cabello).
+preparacion(infusion, caspa).
+
+preparacion(jugo, bilis).
+preparacion(decoccion, calculos_biliares).
+
+preparacion(tintura, dolores_reumaticos).
+preparacion(decoccion, dolores_reumaticos).
+preparacion(aceite_esencial, dolores_reumaticos).
+preparacion(cataplasma, artritis).
+preparacion(infusion, artritis).
+
+preparacion(jugo, dolor_de_oido).
+
+preparacion(infusion, conjuntivitis).
+
+preparacion(infusion, retencion_de_liquidos).
+preparacion(decoccion, infeccion_urinaria).
+
+preparacion(decoccion, nerviosismo).
+preparacion(extracto, nerviosismo).
+preparacion(infusion, nerviosismo).
+preparacion(infusion, insomnio).
+
+preparacion(infusion, tos).
+preparacion(jarabe, gripe).
+preparacion(infusion, resfriado).
+preparacion(jugo, hemorragias_nasales).
+preparacion(infusion, bronquitis).
+preparacion(esencia, bronquitis).
+preparacion(infusion, asma).
+
+planta(eucalipto, aceite_esencial).
+planta(oregano, aceite_esencial).
+planta(yerbabuena, aceite_esencial).
+planta(canela, aceite_esencial).
+
+planta(laurel, cataplasma).
+planta(llanten, cataplasma).
+planta(manzanilla, cataplasma).
+planta(cidron, cataplasma).
+
+planta(achiote, decoccion).
+planta(anis, decoccion).
+planta(jengibre, decoccion).
+planta(laurel, decoccion).
+planta(manzanilla, decoccion).
+planta(ortiga, decoccion).
+planta(romero, decoccion).
+planta(salvia, decoccion).
+planta(yerbabuena, decoccion).
+planta(boldo, decoccion).
+planta(canela, decoccion).
+
+planta(canela, esencia).
+
+planta(toronjil, extracto).
+
+planta(achiote, infusion).
+planta(anis, infusion).
+planta(laurel, infusion).
+planta(llanten, infusion).
+planta(manzanilla, infusion).
+planta(oregano, infusion).
+planta(ortiga, infusion).
+planta(paico, infusion).
+planta(perejil, infusion).
+planta(ruda, infusion).
+planta(tamarindo, infusion).
+planta(tilo, infusion).
+planta(valeriana, infusion).
+planta(yerbabuena, infusion).
+planta(cidron, infusion).
+planta(bordo, infusion).
+
+planta(canela, jarabe).
+
+planta(llanten, jugo).
+planta(ortiga, jugo).
+planta(paico, jugo).
+planta(tamarindo, jugo).
+planta(boldo, jugo).
+
+planta(laurel, maceracion).
+planta(perejil, maceracion).
+
+planta(aloe_vera, pulpa).
+planta(tamarindo, pulpa).
+
+planta(arnica, tintura).
+planta(valeriana, tintura).
+
