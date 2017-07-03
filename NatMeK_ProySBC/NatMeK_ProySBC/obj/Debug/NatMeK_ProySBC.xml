@@ -27,7 +27,22 @@ NatMeK_ProySBC
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:NatMeK_ProySBC.My.Resources.Resources.achiote2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NatMeK_ProySBC.My.Resources.Resources.achiote21">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:NatMeK_ProySBC.My.Resources.Resources.imageninicio">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NatMeK_ProySBC.My.Resources.Resources.sabila">
 <summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>

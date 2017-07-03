@@ -19,3 +19,24 @@ C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\SBC_proyfinal\NatMeK_
 C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\SBC_proyfinal\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.exe
 C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\SBC_proyfinal\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.xml
 C:\Users\KarinaAlejandra\Documents\01 UTP\2017\01 SEMESTRE\SBC_proyfinal\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.pdb
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\bin\Debug\NatMeK_ProySBC.exe.config
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.exe
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.xml
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.pdb
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\bin\Debug\NatMeK_ProySBC.exe
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\bin\Debug\NatMeK_ProySBC.pdb
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\bin\Debug\NatMeK_ProySBC.xml
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.vbprojResolveAssemblyReference.cache
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.Resources.resources
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.p1_Inicio.resources
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.p2_área.resources
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.p3_enfermedad.resources
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.p4_preparacion.resources
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.p5_opcional.resources
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.p6_plantas.resources
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.r1_achiote.resources
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.r1_aloevera.resources
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.r2_achiote.resources
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.r2_aloevera.resources
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\obj\Debug\NatMeK_ProySBC.vbproj.GenerateResource.Cache
+C:\Users\a-ero\OneDrive\Documentos\PREEXPERIMENTAL_Hs_2nd\NatMeK_ProySBC\NatMeK_ProySBC\bin\Debug\SwiPlCs.dll
