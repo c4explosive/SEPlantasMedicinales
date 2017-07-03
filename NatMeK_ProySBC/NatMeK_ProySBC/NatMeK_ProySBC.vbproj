@@ -135,6 +135,138 @@
     <Compile Include="r1_aloevera.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="r1_anis.Designer.vb">
+      <DependentUpon>r1_anis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_anis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_arnica.Designer.vb">
+      <DependentUpon>r1_arnica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_arnica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_boldo.Designer.vb">
+      <DependentUpon>r1_boldo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_boldo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_canela.Designer.vb">
+      <DependentUpon>r1_canela.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_canela.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_cidron.Designer.vb">
+      <DependentUpon>r1_cidron.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_cidron.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_eucalipto.Designer.vb">
+      <DependentUpon>r1_eucalipto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_eucalipto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_jengibre.Designer.vb">
+      <DependentUpon>r1_jengibre.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_jengibre.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_laurel.Designer.vb">
+      <DependentUpon>r1_laurel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_laurel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_llanten.Designer.vb">
+      <DependentUpon>r1_llanten.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_llanten.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_manzanilla.Designer.vb">
+      <DependentUpon>r1_manzanilla.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_manzanilla.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_oregano.Designer.vb">
+      <DependentUpon>r1_oregano.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_oregano.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_ortiga.Designer.vb">
+      <DependentUpon>r1_ortiga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_ortiga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_paico.Designer.vb">
+      <DependentUpon>r1_paico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_paico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_perejil.Designer.vb">
+      <DependentUpon>r1_perejil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_perejil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_romero.Designer.vb">
+      <DependentUpon>r1_romero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_romero.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_ruda.Designer.vb">
+      <DependentUpon>r1_ruda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_ruda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_salvia.Designer.vb">
+      <DependentUpon>r1_salvia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_salvia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_tamarindo.Designer.vb">
+      <DependentUpon>r1_tamarindo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_tamarindo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_tilo.Designer.vb">
+      <DependentUpon>r1_tilo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_tilo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_toronjil.Designer.vb">
+      <DependentUpon>r1_toronjil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_toronjil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_valeriana.Designer.vb">
+      <DependentUpon>r1_valeriana.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_valeriana.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r1_yerbabuena.Designer.vb">
+      <DependentUpon>r1_yerbabuena.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r1_yerbabuena.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="r2_achiote.Designer.vb">
       <DependentUpon>r2_achiote.vb</DependentUpon>
     </Compile>
@@ -145,6 +277,252 @@
       <DependentUpon>r2_aloevera.vb</DependentUpon>
     </Compile>
     <Compile Include="r2_aloevera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_anis.Designer.vb">
+      <DependentUpon>r2_anis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_anis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_arnica.Designer.vb">
+      <DependentUpon>r2_arnica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_arnica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_boldo.Designer.vb">
+      <DependentUpon>r2_boldo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_boldo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_canela.Designer.vb">
+      <DependentUpon>r2_canela.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_canela.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_cidron.Designer.vb">
+      <DependentUpon>r2_cidron.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_cidron.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_eucalipto.Designer.vb">
+      <DependentUpon>r2_eucalipto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_eucalipto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_laurel.Designer.vb">
+      <DependentUpon>r2_laurel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_laurel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_llanten.Designer.vb">
+      <DependentUpon>r2_llanten.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_llanten.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_manzanilla.Designer.vb">
+      <DependentUpon>r2_manzanilla.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_manzanilla.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_oregano.Designer.vb">
+      <DependentUpon>r2_oregano.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_oregano.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_ortiga.Designer.vb">
+      <DependentUpon>r2_ortiga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_ortiga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_paico.Designer.vb">
+      <DependentUpon>r2_paico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_paico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_perejil.Designer.vb">
+      <DependentUpon>r2_perejil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_perejil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_romero.Designer.vb">
+      <DependentUpon>r2_romero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_romero.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_ruda.Designer.vb">
+      <DependentUpon>r2_ruda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_ruda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_salvia.Designer.vb">
+      <DependentUpon>r2_salvia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_salvia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_tamarindo.Designer.vb">
+      <DependentUpon>r2_tamarindo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_tamarindo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_tilo.Designer.vb">
+      <DependentUpon>r2_tilo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_tilo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_valeriana.Designer.vb">
+      <DependentUpon>r2_valeriana.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_valeriana.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r2_yerbabuena.Designer.vb">
+      <DependentUpon>r2_yerbabuena.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r2_yerbabuena.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_aloevera.Designer.vb">
+      <DependentUpon>r3_aloevera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_aloevera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_boldo.Designer.vb">
+      <DependentUpon>r3_boldo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_boldo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_canela.Designer.vb">
+      <DependentUpon>r3_canela.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_canela.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_cidron.Designer.vb">
+      <DependentUpon>r3_cidron.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_cidron.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_laurel.Designer.vb">
+      <DependentUpon>r3_laurel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_laurel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_llanten.Designer.vb">
+      <DependentUpon>r3_llanten.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_llanten.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_manzanilla.Designer.vb">
+      <DependentUpon>r3_manzanilla.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_manzanilla.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_oregano.Designer.vb">
+      <DependentUpon>r3_oregano.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_oregano.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_ortiga.Designer.vb">
+      <DependentUpon>r3_ortiga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_ortiga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_paico.Designer.vb">
+      <DependentUpon>r3_paico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_paico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_perejil.Designer.vb">
+      <DependentUpon>r3_perejil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_perejil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_salvia.Designer.vb">
+      <DependentUpon>r3_salvia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_salvia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_tamarindo.Designer.vb">
+      <DependentUpon>r3_tamarindo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_tamarindo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r3_yerbabuena.Designer.vb">
+      <DependentUpon>r3_yerbabuena.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r3_yerbabuena.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r4_aloevera.Designer.vb">
+      <DependentUpon>r4_aloevera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r4_aloevera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r4_boldo.Designer.vb">
+      <DependentUpon>r4_boldo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r4_boldo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r4_canela.Designer.vb">
+      <DependentUpon>r4_canela.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r4_canela.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r4_laurel.Designer.vb">
+      <DependentUpon>r4_laurel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r4_laurel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r4_llanten.Designer.vb">
+      <DependentUpon>r4_llanten.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r4_llanten.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r4_oregano.Designer.vb">
+      <DependentUpon>r4_oregano.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r4_oregano.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r4_ortiga.Designer.vb">
+      <DependentUpon>r4_ortiga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r4_ortiga.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
@@ -179,11 +557,200 @@
     <EmbeddedResource Include="r1_aloevera.resx">
       <DependentUpon>r1_aloevera.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="r1_anis.resx">
+      <DependentUpon>r1_anis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_arnica.resx">
+      <DependentUpon>r1_arnica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_boldo.resx">
+      <DependentUpon>r1_boldo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_canela.resx">
+      <DependentUpon>r1_canela.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_cidron.resx">
+      <DependentUpon>r1_cidron.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_eucalipto.resx">
+      <DependentUpon>r1_eucalipto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_jengibre.resx">
+      <DependentUpon>r1_jengibre.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_laurel.resx">
+      <DependentUpon>r1_laurel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_llanten.resx">
+      <DependentUpon>r1_llanten.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_manzanilla.resx">
+      <DependentUpon>r1_manzanilla.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_oregano.resx">
+      <DependentUpon>r1_oregano.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_ortiga.resx">
+      <DependentUpon>r1_ortiga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_paico.resx">
+      <DependentUpon>r1_paico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_perejil.resx">
+      <DependentUpon>r1_perejil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_romero.resx">
+      <DependentUpon>r1_romero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_ruda.resx">
+      <DependentUpon>r1_ruda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_salvia.resx">
+      <DependentUpon>r1_salvia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_tamarindo.resx">
+      <DependentUpon>r1_tamarindo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_tilo.resx">
+      <DependentUpon>r1_tilo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_toronjil.resx">
+      <DependentUpon>r1_toronjil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_valeriana.resx">
+      <DependentUpon>r1_valeriana.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r1_yerbabuena.resx">
+      <DependentUpon>r1_yerbabuena.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="r2_achiote.resx">
       <DependentUpon>r2_achiote.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="r2_aloevera.resx">
       <DependentUpon>r2_aloevera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_anis.resx">
+      <DependentUpon>r2_anis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_arnica.resx">
+      <DependentUpon>r2_arnica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_boldo.resx">
+      <DependentUpon>r2_boldo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_canela.resx">
+      <DependentUpon>r2_canela.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_cidron.resx">
+      <DependentUpon>r2_cidron.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_eucalipto.resx">
+      <DependentUpon>r2_eucalipto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_laurel.resx">
+      <DependentUpon>r2_laurel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_llanten.resx">
+      <DependentUpon>r2_llanten.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_manzanilla.resx">
+      <DependentUpon>r2_manzanilla.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_oregano.resx">
+      <DependentUpon>r2_oregano.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_ortiga.resx">
+      <DependentUpon>r2_ortiga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_paico.resx">
+      <DependentUpon>r2_paico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_perejil.resx">
+      <DependentUpon>r2_perejil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_romero.resx">
+      <DependentUpon>r2_romero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_ruda.resx">
+      <DependentUpon>r2_ruda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_salvia.resx">
+      <DependentUpon>r2_salvia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_tamarindo.resx">
+      <DependentUpon>r2_tamarindo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_tilo.resx">
+      <DependentUpon>r2_tilo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_valeriana.resx">
+      <DependentUpon>r2_valeriana.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r2_yerbabuena.resx">
+      <DependentUpon>r2_yerbabuena.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_aloevera.resx">
+      <DependentUpon>r3_aloevera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_boldo.resx">
+      <DependentUpon>r3_boldo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_canela.resx">
+      <DependentUpon>r3_canela.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_cidron.resx">
+      <DependentUpon>r3_cidron.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_laurel.resx">
+      <DependentUpon>r3_laurel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_llanten.resx">
+      <DependentUpon>r3_llanten.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_manzanilla.resx">
+      <DependentUpon>r3_manzanilla.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_oregano.resx">
+      <DependentUpon>r3_oregano.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_ortiga.resx">
+      <DependentUpon>r3_ortiga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_paico.resx">
+      <DependentUpon>r3_paico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_perejil.resx">
+      <DependentUpon>r3_perejil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_salvia.resx">
+      <DependentUpon>r3_salvia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_tamarindo.resx">
+      <DependentUpon>r3_tamarindo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r3_yerbabuena.resx">
+      <DependentUpon>r3_yerbabuena.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r4_aloevera.resx">
+      <DependentUpon>r4_aloevera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r4_boldo.resx">
+      <DependentUpon>r4_boldo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r4_canela.resx">
+      <DependentUpon>r4_canela.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r4_laurel.resx">
+      <DependentUpon>r4_laurel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r4_llanten.resx">
+      <DependentUpon>r4_llanten.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r4_oregano.resx">
+      <DependentUpon>r4_oregano.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r4_ortiga.resx">
+      <DependentUpon>r4_ortiga.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -207,9 +774,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\achiote2.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sabila1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
