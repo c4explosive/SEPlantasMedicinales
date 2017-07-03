@@ -282,9 +282,7 @@
     <Compile Include="r2_aloevera.vb">
       <SubType>Form</SubType>
     </Compile>
-<<<<<<< HEAD
     <Compile Include="visual_connection_prolog.vb" />
-=======
     <Compile Include="r2_anis.Designer.vb">
       <DependentUpon>r2_anis.vb</DependentUpon>
     </Compile>
@@ -531,7 +529,6 @@
     <Compile Include="r4_ortiga.vb">
       <SubType>Form</SubType>
     </Compile>
->>>>>>> eac6a4a5105684b71fb9328f6fb99b52c0597a06
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
