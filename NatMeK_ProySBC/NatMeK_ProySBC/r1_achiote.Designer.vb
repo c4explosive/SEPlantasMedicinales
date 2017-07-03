@@ -28,8 +28,8 @@ Partial Class r1_achiote
         Me.Label2 = New System.Windows.Forms.Label()
         Me.btn_fin = New System.Windows.Forms.Button()
         Me.btn_nconsulta = New System.Windows.Forms.Button()
-        Me.Label3 = New System.Windows.Forms.Label()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.Label3 = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -102,6 +102,16 @@ Partial Class r1_achiote
         Me.btn_nconsulta.Text = "NUEVA CONSULTA"
         Me.btn_nconsulta.UseVisualStyleBackColor = False
         '
+        'PictureBox1
+        '
+        Me.PictureBox1.Image = Global.NatMeK_ProySBC.My.Resources.Resources.achiote
+        Me.PictureBox1.Location = New System.Drawing.Point(21, 155)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(273, 242)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox1.TabIndex = 16
+        Me.PictureBox1.TabStop = False
+        '
         'Label3
         '
         Me.Label3.AutoSize = True
@@ -112,16 +122,6 @@ Partial Class r1_achiote
         Me.Label3.TabIndex = 29
         Me.Label3.Text = "Nombres Comunes" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Achote atase, popsote, rucu, mashe."
         Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
-        '
-        'PictureBox1
-        '
-        Me.PictureBox1.Image = Global.NatMeK_ProySBC.My.Resources.Resources.achiote
-        Me.PictureBox1.Location = New System.Drawing.Point(21, 155)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(273, 242)
-        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox1.TabIndex = 16
-        Me.PictureBox1.TabStop = False
         '
         'r1_achiote
         '
