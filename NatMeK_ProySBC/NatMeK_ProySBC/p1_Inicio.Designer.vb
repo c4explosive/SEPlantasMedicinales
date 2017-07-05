@@ -25,7 +25,6 @@ Partial Class p1_Inicio
 		Me.pb_inicio = New System.Windows.Forms.PictureBox()
 		Me.lb_descripción = New System.Windows.Forms.Label()
 		Me.btn_consultar = New System.Windows.Forms.Button()
-		Me.btn_adm = New System.Windows.Forms.Button()
 		Me.lb_t2 = New System.Windows.Forms.Label()
 		Me.lb_t1 = New System.Windows.Forms.Label()
 		Me.Label1 = New System.Windows.Forms.Label()
@@ -58,24 +57,12 @@ Partial Class p1_Inicio
 		Me.btn_consultar.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
 		Me.btn_consultar.Font = New System.Drawing.Font("Lucida Sans", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
 		Me.btn_consultar.ForeColor = System.Drawing.Color.Black
-		Me.btn_consultar.Location = New System.Drawing.Point(390, 400)
+		Me.btn_consultar.Location = New System.Drawing.Point(489, 397)
 		Me.btn_consultar.Name = "btn_consultar"
 		Me.btn_consultar.Size = New System.Drawing.Size(127, 33)
 		Me.btn_consultar.TabIndex = 4
 		Me.btn_consultar.Text = "CONSULTAR"
 		Me.btn_consultar.UseVisualStyleBackColor = False
-		'
-		'btn_adm
-		'
-		Me.btn_adm.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
-		Me.btn_adm.Font = New System.Drawing.Font("Lucida Sans", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-		Me.btn_adm.ForeColor = System.Drawing.Color.Black
-		Me.btn_adm.Location = New System.Drawing.Point(530, 400)
-		Me.btn_adm.Name = "btn_adm"
-		Me.btn_adm.Size = New System.Drawing.Size(127, 33)
-		Me.btn_adm.TabIndex = 5
-		Me.btn_adm.Text = "ADMINISTRAR"
-		Me.btn_adm.UseVisualStyleBackColor = False
 		'
 		'lb_t2
 		'
@@ -119,7 +106,6 @@ Partial Class p1_Inicio
 		Me.Controls.Add(Me.Label1)
 		Me.Controls.Add(Me.lb_t2)
 		Me.Controls.Add(Me.lb_t1)
-		Me.Controls.Add(Me.btn_adm)
 		Me.Controls.Add(Me.btn_consultar)
 		Me.Controls.Add(Me.lb_descripción)
 		Me.Controls.Add(Me.pb_inicio)
@@ -138,8 +124,7 @@ Partial Class p1_Inicio
 	Friend WithEvents pb_inicio As PictureBox
     Friend WithEvents lb_descripción As Label
     Friend WithEvents btn_consultar As Button
-    Friend WithEvents btn_adm As Button
-    Friend WithEvents lb_t2 As Label
-    Friend WithEvents lb_t1 As Label
+	Friend WithEvents lb_t2 As Label
+	Friend WithEvents lb_t1 As Label
     Friend WithEvents Label1 As Label
 End Class

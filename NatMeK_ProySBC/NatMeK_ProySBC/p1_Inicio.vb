@@ -16,31 +16,16 @@ Public Class p1_Inicio
 	End Sub
 
 	Private Sub btn_consultar_Click(sender As Object, e As EventArgs) Handles btn_consultar.Click
-		'Me.Hide()
-		Dim rad_array As RadioButton()
-		ReDim rad_array(990)
-		Dim i As Integer
-		i = 0
-		Dim y As Integer = 10
-		connect_to_base()
-		Dim loadr As PlQuery = New PlQuery("cargar('avescorredoras.bd')")
-		loadr.NextSolution()
-		Dim avescorr As PlQuery = New PlQuery("son_aves_corredoras(X)")
-		For Each z As PlQueryVariables In avescorr.SolutionVariables
-			rad_array(i) = New RadioButton
-			'lstResponse.Items.Add(z("X").ToString)
-			rad_array(i).Text = z("X").ToString
-			rad_array(i).Location = New Point(0, y)
-			Me.Controls.Add(rad_array(i))
-			i += 1
-			y += 100
-			Debug.Print(z("X").ToString)
-		Next
-		'p2_área.Show()
+		Me.Hide()
+		Dim res As New resultsopts
+		get_Query_res("areas_get_filt(X)", res)
+		rnum_options = method_gen_options(res, p2_área)
+		p2_área.Show()
 
 	End Sub
 
 	Private Sub pb_inicio_Click(sender As Object, e As EventArgs) Handles pb_inicio.Click
-
+		Debug.Print("My name is: " & Me.Name)
+		load_dict_con()
 	End Sub
 End Class
